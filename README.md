@@ -1,5 +1,5 @@
 # Colorizr
-----
+
 Colorizr is a simple gem which helps you to colorize your output. 
 
 ### Installation
