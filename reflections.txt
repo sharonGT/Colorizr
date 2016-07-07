@@ -5,7 +5,7 @@ How long did you spend working on this project?
 I spend 19 days with an average of 5 hours each day. 
 
 What was the most rewarding challenge you conquered?
-I would that all metaprogramming ways taught so far is difficult and very challenging to understand and then use. For me it was confusing and often times, I have to re-rea d or find new material in programming websites recommended by Udacity to get more examples and further deepen my understanding of this topic. 
+I think that all metaprogramming ways taught so far are difficult and very challenging to understand and then use. It was confusing and often times, I have to re-read or find new material in programming websites recommended by Udacity to get more examples and further deepen my understanding of this topic. 
 
 Where do you still have room to grow?
-I guess to familiarize with all the metaprogramming capabilities. 
+I have to familiarize with all the metaprogramming capabilities. 
