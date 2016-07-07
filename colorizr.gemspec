@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'sharongozcu@gmail.com'
   s.files       = ["lib/colorizr.rb"]
   s.homepage    =
-    'http://nohomepageyet.com'
-  s.license       = '007license'
+    'https://github.com/sharonGT'
+  s.license       = 'MIT license'
 end
