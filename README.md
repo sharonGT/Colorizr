@@ -4,7 +4,7 @@ Colorizr is a simple gem which helps you to colorize your output.
 
 ### Installation
 ```
-gem install Colorizr 
+gem install colorizr 
 ```
 ### Version
 0.0.2
